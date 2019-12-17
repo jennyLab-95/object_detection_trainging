@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_medicine_v6</folder>
+	<filename>38.jpg</filename>
+	<path>C:\Users\nn843\OneDrive\바탕 화면\object_detection_trainging-master\object_detection_trainging-master\data\images\test_medicine_v6\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pill_ezn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>230</ymin>
+			<xmax>628</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

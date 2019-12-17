@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0.jpg</filename>
+	<path>C:\Users\apolonia\ComputerVision\0_Practice\object_detecteion_medicine_v4\data\images\train\0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ezn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>303</ymin>
+			<xmax>511</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

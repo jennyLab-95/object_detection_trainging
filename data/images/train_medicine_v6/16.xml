@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_medicine_v6</folder>
+	<filename>16.jpg</filename>
+	<path>C:\Users\nn843\OneDrive\바탕 화면\object_detection_trainging-master\object_detection_trainging-master\data\images\train_medicine_v6\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pill_ezn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>245</ymin>
+			<xmax>304</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tylenol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>154</ymin>
+			<xmax>780</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
